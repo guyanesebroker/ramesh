@@ -1,0 +1,13 @@
+.pt-0 {
+    padding-top: 0;
+}
+
+a:hover {
+    cursor: pointer;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
